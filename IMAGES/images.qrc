@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="moreicon">
+    <file>home.png</file>
+    <file>more.png</file>
+  </qresource>
+  <qresource prefix="PE ORDER">
+    <file>icons8-refresh-love-64.png</file>
+    <file>icons8-box-2048.png</file>
+    <file>icons8-back-arrow-80.png</file>
+    <file>icons8-update-tag-80.png</file>
+    <file>print.png</file>
+    <file>pay.png</file>
+    <file>qr.png</file>
+    <file>price1.png</file>
+    <file>pending1.png</file>
+    <file>summary1.png</file>
+    <file>summary.png</file>
+    <file>pending.png</file>
+    <file>icons8-peso-symbol-100.png</file>
+  </qresource>
+  <qresource prefix="EQUIPMENT">
+    <file>icons8-search-208.png</file>
+    <file>icons8-time-machine-100.png</file>
+    <file>icons8-qr-code-96.png</file>
+  </qresource>
+  <qresource prefix="logout">
+    <file>LOGOUT.png</file>
+  </qresource>
+  <qresource prefix="barbel">
+    <file>icons8-barbell-96.png</file>
+  </qresource>
+  <qresource prefix="night">
+    <file>unnamed.png</file>
+  </qresource>
+  <qresource prefix="back">
+    <file>back.png</file>
+  </qresource>
+  <qresource prefix="equipment">
+    <file>yellow.png</file>
+    <file>green.png</file>
+    <file>violet.png</file>
+    <file>sequip.png</file>
+  </qresource>
+  <qresource prefix="uniform">
+    <file>filled.png</file>
+    <file>uniform.png</file>
+  </qresource>
+  <qresource prefix="settings icon">
+    <file>settings.png</file>
+    <file>qrcode.png</file>
+  </qresource>
+</RCC>
